@@ -1,0 +1,9 @@
+.env
+key_app_lockbox.json
+__pycache__/
+venv
+encode_credential.py
+face_capture.py
+face_ref.xml
+main.py
+match_face.py
